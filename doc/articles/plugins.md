@@ -40,7 +40,7 @@ For example
         "type": "composer-plugin",
         "require": {
             "composer-plugin-api": "1.0.0"
-        }
+        },
         "extra": {
             "class": "phpDocumentor\\Composer\\TemplateInstallerPlugin"
         }
