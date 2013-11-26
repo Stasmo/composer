@@ -41,6 +41,9 @@ For example
         "require": {
             "composer-plugin-api": "1.0.0"
         }
+        "extra": {
+            "class": "phpDocumentor\\Composer\\TemplateInstallerPlugin"
+        }
     }
 
 ### Plugin Class
